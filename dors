@@ -21,7 +21,7 @@ local SoundService = GetService("SoundService")
 local TextChatService = GetService("TextChatService")
 local UserInputService = GetService("UserInputService")
 
-local Midnight, Flags = loadstring(game:HttpGet("https://raw.githubusercontent.com/HarkkiRblx/Universal-aimbot-script/refs/heads/main/priv"))()
+local Midnight, Flags = loadstring(game:HttpGet("https://raw.githubusercontent.com/HarkkiRblx/Doors/refs/heads/main/priv"))()
 
 local Console = loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/main/utils/console/main.lua"))() -- Made by Upio
 local message = Console.custom_console_progressbar({
