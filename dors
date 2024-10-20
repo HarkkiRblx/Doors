@@ -23,7 +23,7 @@ local UserInputService = GetService("UserInputService")
 
 local Midnight, Flags = loadstring(game:HttpGet("https://raw.githubusercontent.com/HarkkiRblx/Doors/refs/heads/main/priv"))()
 
-local Console = loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/main/utils/console/main.lua"))() -- Made by Upio
+local Console = loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/Scripts/main/utils/console/main.lua"))()
 local message = Console.custom_console_progressbar({
     msg = "[Harkki.lua]: Loading...",
     img = "",
